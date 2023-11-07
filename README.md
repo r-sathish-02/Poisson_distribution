@@ -27,8 +27,8 @@ Conditions for Poisson Distribution:<br>
 </table>
 
 ```
-Developed By: ROHIT JAIN D
-Register No: 212222230120
+Developed By: SATHISH R
+Register No: 212222230138
 ```
 
 ### Program :
