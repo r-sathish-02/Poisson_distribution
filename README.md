@@ -26,12 +26,12 @@ Conditions for Poisson Distribution:<br>
 </tr>
 </table>
 
+
+### Program :
 ```
 Developed By: SATHISH R
 Register No: 212222230138
 ```
-
-### Program :
 ```Python
 import numpy as np
 import math
